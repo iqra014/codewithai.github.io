@@ -13,16 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+
+title: "CodeWithAI"
+name: "CodeWithAI"
+description: "Beginner tutorials and trending topics in AI, Python, and C++"
+url: "https://codewithai.me"
+baseurl: "" # keep this empty for a custom domain
+
+# title: MM
+# email:
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# twitter_username: username
+# github_username: username
+# minimal_mistakes_skin: default
+# search: true
 
 # Build settings
 markdown: kramdown
@@ -113,3 +120,27 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
+
+  author:
+  name   : "Code With AI"
+  avatar : "/assets/images/avatar.png"
+  bio    : "Sharing programming tutorials and AI insights"
+  location: "Internet"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/iqra014"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
+
