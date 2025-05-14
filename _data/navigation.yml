@@ -4,7 +4,7 @@ main:
   - title: "Tech Updates"
     url: /tech-updates/
   - title: "Python Tutorials"
-    url: /python-tutorials/
+    url: /categories/python-tutorials/
   - title: "ML Basics"
     url: /ml-basics/
   - title: "AI Trends"
