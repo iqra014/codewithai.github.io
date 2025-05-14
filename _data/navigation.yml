@@ -1,17 +1,21 @@
 main:
   - title: "Home"
     url: /
-  - title: "Python"
-    url: /python/
-  - title: "C++"
-    url: /cpp/
+  - title: "Tech Updates"
+    url: /tech-updates/
+  - title: "Python Tutorials"
+    url: /python-tutorials/
+  - title: "ML Basics"
+    url: /ml-basics/
   - title: "AI Trends"
     url: /ai-trends/
 
 docs:
-  - title: "Python"
-    url: /python/
-  - title: "C++"
-    url: /cpp/
+  - title: "Tech Updates"
+    url: /tech-updates/
+  - title: "Python Tutorials"
+    url: /python-tutorials/
+  - title: "ML Basics"
+    url: /ml-basics/
   - title: "AI Trends"
     url: /ai-trends/
