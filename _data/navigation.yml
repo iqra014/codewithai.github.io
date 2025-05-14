@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Python"
+    url: /python/
+  - title: "C++"
+    url: /cpp/
+  - title: "AI Trends"
+    url: /ai-trends/
+
+docs:
+  - title: "Python"
+    url: /python/
+  - title: "C++"
+    url: /cpp/
+  - title: "AI Trends"
+    url: /ai-trends/
