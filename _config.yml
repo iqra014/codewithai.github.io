@@ -144,3 +144,6 @@ defaults:
       sidebar:
         nav: "docs"
 
+collections:
+  posts:
+    output: true
