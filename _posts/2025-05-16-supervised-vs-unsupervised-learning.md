@@ -1,8 +1,8 @@
 ---
 title: "Supervised vs Unsupervised Learning: What’s the Difference?"
 date: 2025-05-16
-categories:
-  - ML Basics
+cataegories:
+- ML Basics
 tags:
   - Machine Learning
   - Supervised Learning
