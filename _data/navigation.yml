@@ -1,21 +1,29 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Tech Updates"
-    url: /tech-updates/
+    url: /categories/tech-updates/
+
   - title: "Python Tutorials"
     url: /categories/python-tutorials/
+
   - title: "ML Basics"
-    url: /ml-basics/
+    url: /categories/ml-basics/
+
   - title: "AI Trends"
-    url: /ai-trends/
+    url: /categories/ai-trends/
+
+  - title: "About"
+    url: /about/
+
 
 docs:
   - title: "Tech Updates"
-    url: /tech-updates/
+    url: /categories/tech-updates/
   - title: "Python Tutorials"
-    url: /python-tutorials/
+    url: /categories/python-tutorials/
   - title: "ML Basics"
-    url: /ml-basics/
+    url: /categories/ml-basics/
   - title: "AI Trends"
-    url: /ai-trends/
+    url: /categories/ai-trends/
